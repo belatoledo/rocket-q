@@ -31,6 +31,8 @@ html {
 body {
   height: 100vh;
   background: var(--background);
+
+  display: flex;
 }
 
 body, button, input, textarea {
@@ -40,12 +42,12 @@ body, button, input, textarea {
 
 .content {
   width: 100%;
-  margin: 0 auto;
+  margin: 3.5rem auto;
 }
 
-.content {
+.content header {
   width: 80%;
-  margin: 3.5rem auto;
+  margin: 3.5rem auto 6.7rem;
 }
 
 .content header img {
