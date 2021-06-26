@@ -1,0 +1,24 @@
+{
+  "name": "rocket-q",
+  "version": "1.0.0",
+  "description": "Projeto para gerenciar perguntas anônimas de usuários. Desenvolvido durante a Next Level Week #6 da Rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belatoledo/rocket-q.git"
+  },
+  "keywords": [],
+  "author": "Izabela Toledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belatoledo/rocket-q/issues"
+  },
+  "homepage": "https://github.com/belatoledo/rocket-q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
